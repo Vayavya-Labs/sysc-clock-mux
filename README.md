@@ -9,13 +9,13 @@ See [this post](https://forums.accellera.org/topic/7129-how-to-implement-a-prope
 * Set `SYSTEMC_HOME` and `SYSTEMC_ARCH` environment variables
 
 * Compile
-
+```bash
     $ make
-
+```
 * Execute 
-
+```bash
     $ ./sim.x
-
+```
 ## Expected output
 
     Initial clock period: 2 ns
